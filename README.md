@@ -21,7 +21,7 @@ This project applies **Topological Data Analysis (TDA)** to improve adversarial 
 |-------|----------------|--------------|-------------|
 | **Standard** | 99.08% | 37.20% | 0.00% |
 | **Robust (Ours)** | 98.39% | **94.92%** | **8.90%** |
-| **Improvement** | -0.69% | **+57.72%** 🎯 | **+8.90%** 🎯 |
+| **Improvement** | -0.69% | **+57.72%**  | **+8.90%**  |
 
 **Highlights:**
 -  **94.92% accuracy** against FGSM attacks (vs 37.20% baseline)
